@@ -1,1 +1,1 @@
-# FunEz
+# InstantShare
